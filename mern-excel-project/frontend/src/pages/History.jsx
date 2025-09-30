@@ -18,7 +18,7 @@ export default function History() {
 
   return (
     <div className="card">
-      <h3 style={{ marginTop: 0 }}>Upload History</h3>
+<h3 style={{ marginTop: 0, textAlign: "center" }}>Upload History</h3>
       <table>
         <thead>
           <tr><th>Name</th><th>File</th><th>Rows</th><th>Created</th><th></th></tr>
